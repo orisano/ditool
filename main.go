@@ -20,7 +20,7 @@
 
 package main
 
-import "github.com/orisano/ditool/cmd"
+import "github.com/orisano/gendi/cmd"
 
 func main() {
 	cmd.Execute()
